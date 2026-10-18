@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Todo</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<h1>Todo List</h1>
+<div class="add-row">
+<input id="newTask" placeholder="What needs to be done?" />
+<button id="addBtn">Add</button>
+</div>
+<ul id="taskList"></ul>
+<div class="footer">
+<span id="count">0 items left</span>
+<div class="filters">
+<button data-filter="all" class="active">All</button>
+<button data-filter="active">Active</button>
+<button data-filter="completed">Completed</button>
+</div>
+<button id="clearCompleted">Clear Completed</button>
+</div>
+</div>
+<script src="app.js"></script>
+</body>
+                         </html>
