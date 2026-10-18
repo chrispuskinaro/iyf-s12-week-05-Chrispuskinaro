@@ -2,7 +2,7 @@
 
 **IYF Season 12 - Week 05**
 
-Live Demo: https://chrispuskinaro.github.io/iyf-s12-week-05-chrispuskinaro/
+Live Demo: https://chrispuskinaro.github.io/iyf-s12-week-05-Chrispuskinaro/
 
 ## Features
 - Add new task (Enter key or Add button)
